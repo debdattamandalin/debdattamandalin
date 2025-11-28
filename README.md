@@ -37,7 +37,9 @@
 <p>
   <a href="https://www.linkedin.com/in/debdattamandalin/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/debdattamandal.in/"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"></a>
-  <a href="https://debdattamandal.in" title="my website">🌐 debdattamandal.in</a>
+  <a href="https://debdattamandal.in" title="my website">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="40" alt="website"/>
+  </a>
 </p>
 
 ---
