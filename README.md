@@ -16,11 +16,21 @@
 <p>
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="C"/>
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/>
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML"/>
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS"/>
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/>
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VSCode"/>
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="Cloudflare"/>
+</p>
+
+---
+
+### 📚 what i want to learn  
+<p>
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java"/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++"/>
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS"/>
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="Google Cloud"/>
 </p>
 
 ---
