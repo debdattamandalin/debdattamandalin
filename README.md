@@ -4,7 +4,7 @@
 ---
 
 ### ✨ About Me  
-- 🧊 Mostly emotionless, sometimes 5% anger (according to friends lol)  
+- 🧊 Mostly emotionless, sometimes 5% anger (according to friends)  
 - 🌱 Learning **C and Python** this semester (college syllabus)  
 - 🎨 Very interested in **UI, layouts, and how websites/apps are designed**  
 - 🛠️ Want to build cool + useful apps once my basics get stronger  
